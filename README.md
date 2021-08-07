@@ -1,17 +1,19 @@
 ### Hello, I'm m4oyu :wave:
 
-## IAM:
+<br/>
 
-- a student at Shizuoka University
-- learning mainly on backend technology
-- Gopher
-
-### Connect with me:
 [<img align="left" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qiita.svg" />][qiita]
 [<img align="left" height="22" width="22" src="https://cdn.blog.st-hatena.com/images/favicon.png" />][hatena]
-[<img align="left" height="22" width="22" src="https://img.atcoder.jp/assets/atcoder.png
-" />][atcorder]
+[<img align="left" width="22" src="https://img.atcoder.jp/assets/atcoder.png" />][atcorder]
+
+<br/>
+<br/>
+
+Hello, this is Yuki Yamamoto, a Japanese university student.
+- :school: a student at Shizuoka University
+- :computer: learning mainly on backend technology
+- :rat: gopher
 
 <br />
 
