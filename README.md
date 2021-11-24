@@ -30,7 +30,7 @@ Hello, this is Yuki Yamamoto, a Japanese university student.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4oyu&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=m4oyu&show_icons=true&count_private=true&line_height=40)
+![m4oyu's github stats](https://github-readme-stats.vercel.app/api?username=m4oyu&show_icons=true&count_private=true&line_height=40)
 
 [atcorder]:https://atcoder.jp/users/MAOYU
 [twitter]:https://twitter.com/m4oyu
