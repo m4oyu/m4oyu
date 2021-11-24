@@ -29,8 +29,8 @@ Hello, this is Yuki Yamamoto, a Japanese university student.
 <br />
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4oyu)](https://github.com/m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 [atcorder]:https://atcoder.jp/users/MAOYU
 [twitter]:https://twitter.com/m4oyu
